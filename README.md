@@ -16,12 +16,12 @@ Este proyecto implementa un sistema de gestión de tareas con una API REST usand
 
 ```
 PFO2_GESTIÓN DE TAREAS/
-├── servidor.py          # API Flask principal
-├── requirements.txt     # Dependencias del proyecto
-├── README.md           # Documentación (este archivo)
-├── gestion_tareas.db   # Base de datos SQLite (se crea automáticamente)
-├── capturas/           # Carpeta para capturas de pantalla
-└── .venv/              # Entorno virtual Python
+├── servidor.py          
+├── requirements.txt     
+├── README.md           
+├── gestion_tareas.db   
+├── capturas/           
+└── .venv/              
 ```
 
 ## Instalación y Configuración
